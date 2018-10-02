@@ -22,7 +22,8 @@
   - [@PassionateUXer](https://twitter.com/PassionateUXer)
 - "Designing a UI component kit" by Frédéric Soumaré
 - "Interactive Data Viz can be easy in Ember" by Spencer Price
-  - [slides](https://github.com/spencer516/ember-dataviz-demo)
+  - [slides](https://spencer516.github.io/ember-dataviz-demo)
+  - [code](https://github.com/spencer516/ember-dataviz-demo)
 - "A Simpler Way to Update Your Apps" by Kelly Selden
   - [@kellyselden](https://twitter.com/kellyselden)
 - "It's Easy to Measure Performance in Ember" by Jordan Hawker
